@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently, I'm busy building cores and architecture softwares 💻
+
 <!--
 **MhozaifaA/MhozaifaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

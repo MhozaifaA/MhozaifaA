@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=MhozaifaA&color=green)
+
+
 Currently, I'm busy building cores and architecture softwares 💻
 
   <a href="https://www.linkedin.com/in/mohamad-huzaifa-aseel">

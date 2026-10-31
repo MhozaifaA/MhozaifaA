@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=MhozaifaA&color=green)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MhozaifaA) *Counting since 31/10/2026*
 
 
 Currently, I'm busy building cores and architecture softwares 💻
